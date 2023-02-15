@@ -8,7 +8,7 @@ banner: images/banner.jpg
 subtitle: Douglas Zanco Franco - Web Site
 
 # Content
-excerpt_link: Read More
+excerpt_link: Ver mais
 fancybox: true
 recent_posts_limits: 5
 # Footer
@@ -20,7 +20,7 @@ copyright: |-
 sidebar: right
 widgets:
 - category
-- tag
+# - tag
 - tagcloud
 - archive
 - recent_posts
@@ -28,4 +28,4 @@ widgets:
 # Miscellaneous
 google_analytics:
 favicon: /favicon.png
-twitter:
+twitter: douglaszf

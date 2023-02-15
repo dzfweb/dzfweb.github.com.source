@@ -1,10 +1,15 @@
 ---
-title: 'Curso NativeScript: Criando um novo projeto com Angular 2'
+title: 'NativeScript Course: Creating a New Project with Angular 2'
 date: 2017-04-21 15:08:24
-tags:
+tags: 
+- courses 
+- NativeScript 
+- Angular+ 
+- Mobile
 ---
 
-Fala pessoal, compartilho com vocês uma video aula parte do curso NativeScript com Angular 2 que estou gravando.
+Hey guys, I share with you a video lesson part of the NativeScript with Angular 2 course that I'm recording.
+** Content in Portuguese **
 
 <!--more-->
 
