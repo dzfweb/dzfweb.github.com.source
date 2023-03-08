@@ -46,6 +46,7 @@ I currently lead development teams at XP Inc, being responsible for managing the
 | ![](images/harvard.jpg) | Xponential Academy               | 2022 |         |   |
 | ![](images/udemy.jpg)   | Leadership and People Management | 2021 |         |   |
 | ![](images/ise.jpg)    | Leadership Certification         | 2018 |         |   |
+| ![](images/m30.png)    | Management 3.0         | 2018 |         |   |
 
 ---
 
