@@ -9,6 +9,8 @@ Software Engineer with proven experience in leading high performance teams
 
 I consider a complete engineer in essence, not limited to a specific technology, but in solving the problem and bringing benefit to the company. I have a high capacity for learning and adaptation to environments.
 
+![](images/dzfweb.png)
+
 Experienced Software Engineering & Manager with a demonstrated history of working in the capital markets industry with knowledge from the development environment, coding, support, as well as technology management in complex environments, technology budget and projects.
 
 Throughout the career had opportunity to work with a large variety of technologies among them that stand out: Microsoft Tecnologies (C#, .NET, Azure), node.js, typescript and react.
@@ -35,18 +37,23 @@ Currently I'm working as independent IT consultant. My main roles goes from proj
 
 ### Techninal certificates
 
-| Issuer                    | Course                                                      | Year | Details |     |
-| ------------------------- | ----------------------------------------------------------- | ---- | ------- | --- |
-| ![](images/google.png)    | Introduction to Generative AI                               | 2023 |         |     |
-| ![](images/microsoft.jpg) | Microsoft Certified: Azure Fundamentals - Exam az-900       | 2023 |         |     |
-| ![](images/udemy.jpg)     | Executive Briefing: Artificial Intelligence (AI)            | 2022 |         |     |
-| ![](images/udemy.jpg)     | Docker and Kubernetes: The Big Picture                      | 2018 |         |     |
-| ![](images/linkedin.jpg)  | Cloud Architecture: Core Concepts                           | 2018 |         |     |
-| ![](images/linkedin.jpg)  | Cloud Computing First Look                                  | 2018 |         |     |
-| ![](images/linkedin.jpg)  | Designing RESTful APIs                                      | 2018 |         |     |
-| ![](images/microsoft.jpg) | Building Microservices Applications on Azure Service Fabric | 2017 |         |     |
-| ![](images/microsoft.jpg) | Developing ASP.NET MVC Web Applications - Exam 486          | 2015 |         |     |
-| ![](images/microsoft.jpg) | MCPS: Microsoft Certified Professional ASP.NET MVC          | 2015 |         |     |
+| Issuer                    | Course                                                       | Year | Details |     |
+| ------------------------- | ------------------------------------------------------------ | ---- | ------- | --- |
+| ![](images/microsoft.jpg) | Career Essentials in Generative AI by Microsoft and LinkedIn | 2023 |         |     |
+| ![](images/microsoft.jpg) | Ethics in the Age of Generative AI                           | 2023 |         |     |
+| ![](images/microsoft.jpg) | Generative AI: The Evolution of Thoughtful Online Search     | 2023 |         |     |
+| ![](images/microsoft.jpg) | Introduction to Artificial Intelligence                      | 2023 |         |     |
+| ![](images/microsoft.jpg) | Streamlining Your Work with Microsoft Bing Chat              | 2023 |         |     |
+| ![](images/google.png)    | Introduction to Generative AI                                | 2023 |         |     |
+| ![](images/microsoft.jpg) | Microsoft Certified: Azure Fundamentals - Exam az-900        | 2023 |         |     |
+| ![](images/udemy.jpg)     | Executive Briefing: Artificial Intelligence (AI)             | 2022 |         |     |
+| ![](images/udemy.jpg)     | Docker and Kubernetes: The Big Picture                       | 2018 |         |     |
+| ![](images/linkedin.jpg)  | Cloud Architecture: Core Concepts                            | 2018 |         |     |
+| ![](images/linkedin.jpg)  | Cloud Computing First Look                                   | 2018 |         |     |
+| ![](images/linkedin.jpg)  | Designing RESTful APIs                                       | 2018 |         |     |
+| ![](images/microsoft.jpg) | Building Microservices Applications on Azure Service Fabric  | 2017 |         |     |
+| ![](images/microsoft.jpg) | Developing ASP.NET MVC Web Applications - Exam 486           | 2015 |         |     |
+| ![](images/microsoft.jpg) | MCPS: Microsoft Certified Professional ASP.NET MVC           | 2015 |         |     |
 
 ---
 
