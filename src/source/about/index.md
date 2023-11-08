@@ -39,6 +39,7 @@ Currently I'm working as independent IT consultant. My main roles goes from proj
 
 | Issuer                    | Course                                                       | Year | Details |     |
 | ------------------------- | ------------------------------------------------------------ | ---- | ------- | --- |
+| ![](images/microsoft.jpg) | Microsoft Certified: Azure Developer Associate - Exam az-204 | 2023 |         |     |
 | ![](images/microsoft.jpg) | Career Essentials in Generative AI by Microsoft and LinkedIn | 2023 |         |     |
 | ![](images/microsoft.jpg) | Ethics in the Age of Generative AI                           | 2023 |         |     |
 | ![](images/microsoft.jpg) | Generative AI: The Evolution of Thoughtful Online Search     | 2023 |         |     |
