@@ -9,8 +9,6 @@ Software Engineer with proven experience in leading high performance teams
 
 I consider a complete engineer in essence, not limited to a specific technology, but in solving the problem and bringing benefit to the company. I have a high capacity for learning and adaptation to environments.
 
-![](images/dzfweb.png)
-
 Experienced Software Engineering & Manager with a demonstrated history of working in the capital markets industry with knowledge from the development environment, coding, support, as well as technology management in complex environments, technology budget and projects.
 
 Throughout the career had opportunity to work with a large variety of technologies among them that stand out: Microsoft Tecnologies (C#, .NET, Azure), node.js, typescript and react.

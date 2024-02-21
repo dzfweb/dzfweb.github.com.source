@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "colorjs.io": "^0.4.5",
+    "hexo-symbols-count-time": "^0.7.1",
+    "stylus": "^0.62.0"
+  }
+}
