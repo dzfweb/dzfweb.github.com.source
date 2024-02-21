@@ -44,7 +44,6 @@ Now, create the script that will be executed during WSL startup. Create a new fi
 Paste the following script into the file:
 
 ```bash
-#!/bin/bash
 
 echo "Getting current DNS servers, this takes a couple of seconds"
 

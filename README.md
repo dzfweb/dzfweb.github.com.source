@@ -1,11 +1,7 @@
-### Compile
-
-`hexo generate`
-
-### Move
-
-`cp -rf  *  ~/dev/dzfweb.github.io `
-
 ### new post
 
 `hexo new post "My New Post"`
+
+### deploy
+
+Any push to main will trigger a build and deploy to azure
