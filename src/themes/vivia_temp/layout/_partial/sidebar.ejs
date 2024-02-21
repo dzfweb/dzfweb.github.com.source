@@ -1,0 +1,14 @@
+<sidebar id="sidebar">
+  <% if (theme.sidebar && theme.sidebar.widgets && theme.sidebar.widgets.normal) { %>
+    <% theme.sidebar.widgets.normal.forEach(function(widget){ %>
+      <%- partial('_widget/' + widget) %>
+    <% }) %>
+  <% } %>
+  <div class="sticky">
+    <% if (theme.sidebar && theme.sidebar.widgets && theme.sidebar.widgets.sticky) { %>
+      <% theme.sidebar.widgets.sticky.forEach(function(widget){ %>
+        <%- partial('_widget/' + widget) %>
+      <% }) %>
+    <% } %>
+  </div>
+</sidebar>
