@@ -30,7 +30,7 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_APP_DEPLOYMENT_TOKEN }}
           action: "upload"
-          app_location: "src/"
+          app_location: "src/public"
           output_location: "src/public"
 
   close_pull_request_job:
