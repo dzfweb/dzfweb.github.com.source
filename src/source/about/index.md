@@ -15,7 +15,7 @@ Throughout the career had opportunity to work with a large variety of technologi
 
 ## First contact with Programming…
 
-In 2003, at age 13, when HPG and KIT.NET still existed, and allowed users with no programming knowledge to create their personal pages. This sparked my interest in going deeper and studying about HTML and JAVASCRIPT. This curiosity ended up leading me to PHP, which is officially the first programming language I had contact with.
+In 2003, when I was 13, and [HPG](https://en.wikipedia.org/wiki/Internet_Group) and [KIT.NET](https://pt.wikipedia.org/wiki/Kit.net) still existed, and allowed users with no programming knowledge to create their personal pages. This sparked my interest in going deeper and studying about HTML and JAVASCRIPT. This curiosity ended up leading me to PHP, which is officially the first programming language I had contact with.
 
 ---
 
@@ -27,7 +27,7 @@ Since then, a long journey began, and my passion for developing applications too
 
 ## What I currently do…
 
-Currently I'm working as independent IT consultant. My main roles goes from project and design software and solutions, to maintain and develop them.
+Currently I'm working as independent IT consultant. My main roles goes from project and design software and solutions, to maintain and develop them, hire and manage teams, and also to manage the technology budget and projects.
 
 ---
 
