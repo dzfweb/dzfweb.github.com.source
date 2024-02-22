@@ -1,6 +1,7 @@
 ---
 title: New AI certificates
 date: 2023-10-23 17:09:01
+category: News
 tags:
   - Certificates
   - AI

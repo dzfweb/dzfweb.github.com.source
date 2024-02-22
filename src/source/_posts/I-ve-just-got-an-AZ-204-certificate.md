@@ -1,6 +1,7 @@
 ---
 title: I've just got an AZ-204 certificate
 date: 2023-11-08 08:04:35
+category: News
 tags:
   - Certificates
   - az-204

@@ -1,6 +1,7 @@
 ---
 title: "New certification achieved: Azure DevOps Expert"
 date: 2024-02-16 14:28:41
+category: News
 tags:
   - Certificates
   - az-204

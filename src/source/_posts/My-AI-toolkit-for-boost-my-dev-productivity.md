@@ -1,6 +1,7 @@
 ---
 title: My AI toolkit for boost my dev productivity
 date: 2023-10-23 17:33:23
+category: Development
 tags:
   - Certificates
   - AI

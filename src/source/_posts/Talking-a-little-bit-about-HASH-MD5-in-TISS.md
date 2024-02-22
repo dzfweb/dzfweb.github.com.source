@@ -1,12 +1,13 @@
 ---
 title: Talking a little bit about HASH MD5 in TISS
 date: 2014-09-22 15:05:43
+category: Development
 tags: cryptography
 ---
+
 I created this post with the intention of helping other developers who encountered the same difficulty that I encountered during the process of developing TISS modules and HASH MD5 validations.
 
 <!--more-->
-
 
 To introduce the text, let's go to definitions (well summarized):
 
@@ -34,8 +35,8 @@ Example method to generate MD5 calculation for TISS in C# .NET
 
 Below is a simple method that I use to generate the MD5 Hash.
 
-
 ## Method to generate HashMD5
+
 ```
 public static string getMD5Hash(string input)
 {

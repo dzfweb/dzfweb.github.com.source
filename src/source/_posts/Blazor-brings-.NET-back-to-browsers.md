@@ -1,14 +1,15 @@
 ---
 title: Blazor brings .NET back to browsers
 date: 2017-09-10 15:08:52
-tags: 
-- blazor
-- .net
+category: Development
+tags:
+  - blazor
+  - .net
 ---
 
 Blazor is an experiment created by Steve Sanderson that makes .NET possible for browsers using WebAssembly and DotNetAnywhere. It is not a complete Framework like Flash or Silverlight, but a test to see what is possible to do with such technology.
-<!--more-->
 
+<!--more-->
 
 WebAssembly describes itself as a standard for "a secure, testable, and even deployable JavaScript virtual machine execution environment." Although it performs better in browsers that support it natively, WebAssembly can be interpreted by older browsers through converters and asm.js.
 

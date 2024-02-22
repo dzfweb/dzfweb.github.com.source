@@ -1,6 +1,7 @@
 ---
 title: Enhancing WSL Connectivity with VPN Integration (Cisco, Kaspersky, others)
 date: 2024-02-20 22:15:11
+category: Infrastructure
 tags:
   - WSL
   - VPN

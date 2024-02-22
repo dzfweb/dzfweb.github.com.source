@@ -1,14 +1,15 @@
 ---
 title: Is your .NET Project Source Code protected?
 date: 2013-12-01 15:07:04
-tags: 
-- security 
-- .NET
+category: Development
+tags:
+  - security
+  - .NET
 ---
+
 Probably you Developer must have asked yourself: “Is my code protected?”. I came across this question at the end of a system that I had developed in .NET and was about to put it into production, and like any cautious developer, I started researching methodologies to protect my System and, consequently, the System's source code.
 
 <!--more-->
-
 
 Well, this study brought me an insecurity about the .NET Technology, which for me until then, was considered very safe. Amazingly, it is possible to extract the source code of any .NET project (C#, VB, etc). In this article I will share with you how it is possible to do this and how to protect your code and make this practice a little more difficult.
 
@@ -50,8 +51,6 @@ As of the 2012 version of Visual Studio, the Dotfuscator extension from the comp
 (Ex: ..ProjetoBinMeuProjeto.exe)
 
 3- Click on Build > Build Project. This process will create a folder in your selected Project directory with the name Dotfuscated and the Executable or DLL with MSIL obfuscated.
-
- 
 
 1
 Okay, your code has been protected and it is not possible to decompile. Now all you have to do is distribute the obfuscated executable to your clients. If you try to do this in Reflector, the result will be an encrypted and unreadable file.
