@@ -47,6 +47,7 @@ If you want to reach me, you can find me at:
 
 | Issuer                                                           | Course                                                       | Year |     |
 | ---------------------------------------------------------------- | ------------------------------------------------------------ | ---- | --- |
+| ![](images/gcp.png)                                              | Professional Cloud Developer Certification                   | 2024 |
 | ![](images/microsoft-expert.png)                                 | Microsoft Certified: Azure DevOps Expert                     | 2024 |     |
 | ![](images/I-ve-just-got-an-AZ-204-certificate/az-associate.png) | Microsoft Certified: Azure Developer Associate - Exam az-204 | 2023 |     |
 | ![](images/microsoft.jpg)                                        | Career Essentials in Generative AI by Microsoft and LinkedIn | 2023 |     |
