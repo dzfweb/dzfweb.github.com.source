@@ -12,8 +12,8 @@ I'm happy to announce that I have recently earned my first Google Cloud Professi
 
 <!--more-->
 
-| Issuer              | Course                                     | Year |
-| ------------------- | ------------------------------------------ | ---- |
-| ![](images/gcp.png) | Professional Cloud Developer Certification | 2024 |
+| Issuer                 | Course                                     | Year |
+| ---------------------- | ------------------------------------------ | ---- |
+| ![](images/google.png) | Professional Cloud Developer Certification | 2024 |
 
 These certificates have equipped me with the skills and knowledge needed to excel in the field of cloud computing, including cloud-native application development, cloud architecture, and cloud security.
