@@ -1,9 +1,10 @@
 ---
 title: About
 date: 2023-01-28 15:13:04
+category: About
 ---
 
-Software Engineer with proven experience in leading high performance teams
+Software Engineer and Manager with proven experience in leading high performance teams
 
 ## Who am I?
 
@@ -21,7 +22,15 @@ In 2003, when I was 13, and [HPG](https://en.wikipedia.org/wiki/Internet_Group) 
 
 ## Experiences with Development…
 
-Since then, a long journey began, and my passion for developing applications took over and I ventured into other languages, a passage without major highlights, with personal studies, freelance work, and even some attempts at startups that did not go ahead, however it yielded a good experience and awakened my entrepreneurial side. In 2013 I got to know ASP.NET FRAMEWORK with C# and the set of tools that Microsoft provides to developers, and it became the flagship in my daily life with development. From then on, I had contact in personal and professional projects in Web Forms, Windows Forms and MVC. In June 2014 I started the startup Zanco Automação Comercial, an application for automation and management of small and medium-sized wholesale and retail companies. In April 2016, through the IBM Hackathon in partnership with GS1, I participated in the creation of the then TemPraJá project, today a startup, which aims to avoid the waste of perishable products through a multiplatform system of commerce and donation,
+Since then, a long journey began, and my passion for developing applications took over and I ventured into other languages, a passage without major highlights, with personal studies, freelance work, and even some attempts at startups that did not go ahead, however it yielded a good experience and awakened my entrepreneurial side.
+
+In 2013 I got to know ASP.NET FRAMEWORK with C# and the set of tools that Microsoft provides to developers, and it became the flagship in my daily life with development. From then on, I had contact in personal and professional projects in Web Forms, Windows Forms and MVC. In June 2014 I started the startup Zanco Automação Comercial, an application for automation and management of small and medium-sized wholesale and retail companies.
+
+In April 2016, through the IBM Hackathon in partnership with GS1, I participated in the creation of the then TemPraJá project, today a startup, which aims to avoid the waste of perishable products through a multiplatform system of commerce and donation,
+
+In 2017 I joined XP Investimentos, where I had the opportunity to work with a high-performance team, with a focus on the development of high-performance applications, focused on the financial market, and the development of the XP Investimentos platform. At XP, I supported the company grows helping forming teams, hiring and training new developers, and also managing the technology budget and projects. Among the 6 years there, I moved from a single squad leader, managing 5~10 engineers, to a Head of Engineering, managing a whole business unit with more than 20 squads and 100 engineers and managers.
+
+In 2023 I decided to start having more contact with the international market, then I left XP to work as an independent IT consultant for US based companies. This decision was made to have more contact with the international market and to be able to work with the best technologies and practices in the world, also helped me to recycle my knowledge in the technical side as well as improve my english
 
 ---
 
